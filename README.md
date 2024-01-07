@@ -1,4 +1,4 @@
-Hello There! My name is Tsotne!
+Hello There! My name is Tsotne! 👋
 ===========================================================================================================================================
 
 Full stack web developer currently interested in mobile app development with Flutter alongside data structures and algorithms with C and C++
