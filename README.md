@@ -1,14 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tsotne!
+Hello There! My name is Tsotne!
 ===========================================================================================================================================
 
 Full stack web developer currently interested in mobile app development with Flutter alongside data structures and algorithms with C and C++
 
-*   🌍  I'm based in Georgia, Tbilisi.
-*   ✉️  You can contact me at [tchavtchavadze.ts@gmail.com](mailto:tchavtchavadze.ts@gmail.com)
-*   🚀  I'm currently working on [Beta webpage for my school](http://vekua.vercel.app)
-*   🧠  I'm learning app development with Flutter
+*   📍  I'm based in Georgia, Tbilisi 🇬🇪
+*   📱  I'm learning app development with Flutter
+*   ✉️  You can contact me by email at [tchavtchavadze.ts@gmail.com](mailto:tchavtchavadze.ts@gmail.com)
+*   🚀  I'm currently working on a [Beta webpage for my school](http://vekua.vercel.app)
 *   🤝  I'm open to collaborating on projects involving React and/or Express JS
-*   ⚡  Im batman... shh
+
+
+  Im batman... shh
 
 ### Skills 
 <p align="left">
