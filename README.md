@@ -1,11 +1,9 @@
-Hello There! My name is Tsotne! 👋
+Hello There!
 ===========================================================================================================================================
 
 Full stack web developer currently interested in mobile app development with Expo (React Native) alongside data structures and algorithms with C and C++
 
-*   📍  I'm based in Georgia, Tbilisi 🇬🇪
 *   📱  I'm learning app development with Expo
-*   ✉️  You can contact me by email at [tchavtchavadze.ts@gmail.com](mailto:tchavtchavadze.ts@gmail.com)
 *   🚀  I'm currently working on a Portfolio page
 *   🤝  I'm open to collaborating on projects involving React and/or Express JS
 
